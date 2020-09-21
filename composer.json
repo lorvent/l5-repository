@@ -41,9 +41,6 @@
       "Prettus\\Repository\\": "src/Prettus/Repository/"
     }
   },
-  "config": {
-    "preferred-install": "source"
-  },
   "suggest": {
     "league/fractal": "Required to use the Fractal Presenter (0.12.*).",
     "robclancy/presenter": "Required to use the Presenter Model (1.3.*)",
@@ -55,6 +52,5 @@
         "Prettus\\Repository\\Providers\\RepositoryServiceProvider"
       ]
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
